@@ -1,0 +1,1 @@
+This a project following along with "The Odin Project". This is for the exercise on part 5 of The "Flexbox" chapter.
