@@ -6,8 +6,8 @@ body {
 }
 
 .top-container {
-    background-color: #1F2937;
-    color: #F3F4F6;
+    background-color: #B4CEFF;
+    color: #fff4e2;
     display: flex;
     gap:6em;
     flex-direction: column;
@@ -22,7 +22,6 @@ body {
 
 #header-logo {
     font-size: 24px;
-    color: #F9FAF8;
     font-weight: bold;
 }
 
