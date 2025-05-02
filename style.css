@@ -26,3 +26,8 @@ ul {
     justify-content: space-between;
     gap: 1em;
 }
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
