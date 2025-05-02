@@ -44,3 +44,8 @@ a {
 .title-container {
     display: flex;
 }
+
+#wide-coffee {
+    width: 60%;
+    height: auto;
+}
