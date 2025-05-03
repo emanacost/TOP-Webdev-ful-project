@@ -62,7 +62,8 @@ a {
 .info-box {
     width: 120px;
     height: 120px;
-    border: #B4CEFF solid;
+    border: #5782d1 solid;
+    border-radius: 10%;
 }
 
 .info-container {
