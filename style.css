@@ -80,3 +80,9 @@ a {
 .info-subtext {
     text-align: center;
 }
+
+/* Styles for the quote div / third to bottom */
+.quote-container {
+    background-color: #ad9ba1;
+    color: #f3faf8;
+}
