@@ -98,3 +98,9 @@ a {
 #quote-source {
     text-align: end;
 }
+
+/* call to action / forth to bottom div */
+.call-container{
+    background-color: #446ebd;
+    color: #f8f5f1;
+}
