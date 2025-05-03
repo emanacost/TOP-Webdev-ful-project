@@ -64,3 +64,7 @@ a {
     height: 120px;
     border: #B4CEFF solid;
 }
+
+.info-container {
+    display: flex;
+}
