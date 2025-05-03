@@ -48,3 +48,7 @@ a {
     width: 60%;
     height: auto;
 }
+
+#rand-info {
+    text-align: center;
+}
