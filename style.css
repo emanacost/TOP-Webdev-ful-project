@@ -52,3 +52,7 @@ a {
 #rand-info {
     text-align: center;
 }
+
+#info-box-container {
+    display: flex;
+}
