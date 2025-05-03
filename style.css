@@ -94,3 +94,7 @@ a {
     font-style: italic;
     font-weight: lighter;
 }
+
+#quote-source {
+    text-align: end;
+}
