@@ -55,4 +55,12 @@ a {
 
 #info-box-container {
     display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+.info-box {
+    width: 120px;
+    height: 120px;
+    border: #B4CEFF solid;
 }
