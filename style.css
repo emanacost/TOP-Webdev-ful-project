@@ -104,12 +104,17 @@ a {
 .call-container{
     background-color: #446ebd;
     color: #f8f5f1;
-    margin: 10px 150px 50px 150px;
+    margin: 10px 160px 50px 160px;
     padding: 10px 5px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 2em;
+    justify-content: space-around;
+    gap: 1em;
+}
+
+#call-action {
+    flex-grow: 1;
+    margin-left: 100px;
 }
 
 #call-signup {
@@ -120,4 +125,5 @@ a {
     background-color: inherit;
     color: inherit;
     border-radius: 10%;
+    margin-right: 100px;
 }
