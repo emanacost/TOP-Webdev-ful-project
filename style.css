@@ -110,6 +110,7 @@ a {
     align-items: center;
     justify-content: space-around;
     gap: 1em;
+    border-radius: 5px;
 }
 
 #call-action {
@@ -134,4 +135,10 @@ a {
     color: inherit;
     border-radius: 10%;
     margin-right: 100px;
+}
+
+/* footer / bottom div */
+
+.footer-container {
+    background-color: #446ebd;
 }
