@@ -86,6 +86,7 @@ a {
     background-color: #ad9ba1;
     color: #f3faf8;
     padding: 100px 100px 20px 100px;
+    margin: 50px 0px;
 }
 
 #quote {
@@ -103,4 +104,5 @@ a {
 .call-container{
     background-color: #446ebd;
     color: #f8f5f1;
+    margin: 10px 150px 50px 150px;
 }
