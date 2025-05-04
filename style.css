@@ -52,6 +52,16 @@ a {
     height: auto;
 }
 
+#title-signup {
+    border: #446ebd;
+    background-color: #446ebd;
+    color: #fff4e2;
+    border-radius: 10%;
+    height: 10%;
+    width: 100px;
+    font-weight: bold;
+}
+
 /* Styles for the info boxes / second to bottom div*/
 #rand-info {
     text-align: center;
