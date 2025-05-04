@@ -117,6 +117,14 @@ a {
     margin-left: 100px;
 }
 
+#call-action-top {
+    margin-bottom: 0px;
+}
+
+#call-action-bottom {
+    margin-top: 0px;
+}
+
 #call-signup {
     height: 26px;
     width: 80px;
