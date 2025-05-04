@@ -140,5 +140,7 @@ a {
 /* footer / bottom div */
 
 .footer-container {
-    background-color: #446ebd;
+    background-color: #B4CEFF;
+    text-align: center;
+    color: #fff4e2;
 }
