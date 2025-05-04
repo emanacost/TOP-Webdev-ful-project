@@ -144,3 +144,8 @@ a {
     text-align: center;
     color: #fff4e2;
 }
+
+#footer-text {
+    line-height: 5;
+    margin: 0px;
+}
